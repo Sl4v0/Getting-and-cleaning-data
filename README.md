@@ -35,7 +35,7 @@ download.file(fileURL, destfile="./data/UCI_HAR_Dataset.zip")
 ## unzip data files into the /data directory
 unzip(zipfile="./data/UCI_HAR_Dataset.zip",exdir="./data")
 ```
-Once the data is downloaded and extracted it first reads **features.txt** to use its contents to name columns in during importing of data from files into variables
+Once the data is downloaded and extracted it first reads **features.txt** to use its contents to name columns during importing of data from files into variables
 ```
 ## read features table to name columns during reading the test and train data
 features <- read.table("./data/UCI HAR Dataset/features.txt")
