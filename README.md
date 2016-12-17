@@ -1,4 +1,4 @@
-# Getting-and-cleaning-data - peer graded project details
+### Getting-and-cleaning-data - peer graded project details
 Peer-graded Assignment: Getting and Cleaning Data Course Project
 
 >The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set.
